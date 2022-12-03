@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T11:47:56.281Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="A2ToMbOFKEoDSez4aY_s" version="20.6.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-12-03T11:49:45.480Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JlIbZrCV7_D5ot0EO1gi" version="20.6.0" type="github" pages="2">
   <diagram id="d3zeg-F9xCOcDOU3xw13" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,6 +12,33 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="79QI_XZUKM3OOBUqX7kp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="79QI_XZUKM3OOBUqX7kp-1" target="79QI_XZUKM3OOBUqX7kp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79QI_XZUKM3OOBUqX7kp-1" value="开始实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="79QI_XZUKM3OOBUqX7kp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="79QI_XZUKM3OOBUqX7kp-2" target="79QI_XZUKM3OOBUqX7kp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79QI_XZUKM3OOBUqX7kp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="79QI_XZUKM3OOBUqX7kp-2" target="79QI_XZUKM3OOBUqX7kp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79QI_XZUKM3OOBUqX7kp-2" value="是否学习英语" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="79QI_XZUKM3OOBUqX7kp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="79QI_XZUKM3OOBUqX7kp-4" target="79QI_XZUKM3OOBUqX7kp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="79QI_XZUKM3OOBUqX7kp-4" value="学习" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="79QI_XZUKM3OOBUqX7kp-5" value="不学习" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="440" y="225" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="79QI_XZUKM3OOBUqX7kp-8" value="继续深造" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
